@@ -1,0 +1,6 @@
+1) In flexbox we had flex container by using display flex;
+2) Similarly we have grid container by using , display: grid;
+3) all te children of the grid container are grid items
+4) There are tow axis in grid container 
+    (i) column axis (top to bottom)
+    (ii) row axis (left to right)
